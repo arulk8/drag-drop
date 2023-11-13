@@ -319,3 +319,6 @@ class ProjectList extends Component<HTMLDivElement,  HTMLElement> implements Dra
 const prjInput = new ProjectInput();
 const prjList = new ProjectList('active');
 const prjList1 = new ProjectList('finished');
+/*
+Two options to organize code in typescript
+ */
