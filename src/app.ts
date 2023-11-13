@@ -321,4 +321,7 @@ const prjList = new ProjectList('active');
 const prjList1 = new ProjectList('finished');
 /*
 Two options to organize code in typescript
+
+1. Namespaces and file bundling 
+2. ES6 imports/Exports & bumdling via webpac
  */
